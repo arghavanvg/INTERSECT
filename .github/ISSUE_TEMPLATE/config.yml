@@ -1,5 +1,5 @@
-blank_issues_enabled: true
+blank_issues_enabled: false
 contact_links:
   - name: Ask Google
-    url: www.google.com
-    about: google may know your answer
+    url: https://www.google.com
+    about: Google Knows Everything
