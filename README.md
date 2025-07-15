@@ -1,5 +1,6 @@
 # INTERSECT Bootcamp - Practice Repository
 
+I am adding a typo :ssfflg
 This repository is for use by participants in the INTERSECT Bootcamp series.
 The dates so far have been:
 
