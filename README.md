@@ -1,6 +1,6 @@
 # INTERSECT Bootcamp - Practice Repository
 
-I am adding a typo :ssfflg
+I am adding a typo :ssfflg ok this has to go to a new branch
 This repository is for use by participants in the INTERSECT Bootcamp series.
 The dates so far have been:
 
